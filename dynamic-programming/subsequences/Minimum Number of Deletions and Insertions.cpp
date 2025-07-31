@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 
     int find_com(int index1, int index2, string &str1, string &str2, vector<vector<int>>& dp){
         if(index1< 0 or index2 <0 ){
